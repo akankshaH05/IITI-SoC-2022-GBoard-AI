@@ -14,3 +14,7 @@ Instructions on how to use the code in Google Colab:
 --> Enter your input string after the code has been executed.
 
 --> You can run the last code cell multiple times to test for multiple input strings.
+
+
+
+Maximum Accuracy on training data set: 0.9652
