@@ -1,7 +1,7 @@
 Instructions on how to use the code in Google Colab:
 
 
---> Click on "Open in Colab" button on top of file.
+--> Click on "Open in Colab" button on top of the file.
 
 --> Under "Runtime" tab on the top left of the page, click on "Change runtime type". Select "GPU" under the Hardware Accelerator drop-down menu (if not already selected) and click Save.
 
